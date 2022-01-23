@@ -1,4 +1,4 @@
-# CSV Parser
+## CSV Parser
 
 CSV parser based on c++. Read, update, delete, create a existing/new csv file.
 
@@ -16,6 +16,11 @@ int main()
     return 0;
 }
 ```
+
+#### Why I created this library?
+I created this library as a final project while I was teaching in coding club in my college to give my students more insight view about a library.
+
+https://onkeshonkar.github.io/cpp-classes -- syllabus I covered while teaching.
 
 ## Table of Contents
 
