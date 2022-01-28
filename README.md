@@ -28,13 +28,14 @@ https://onkeshonkar.github.io/cpp-classes -- syllabus I covered while teaching.
 2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Examples](#examples)
-   4.1 [Read file with default column name](#read-file-with-default-column-name)
-   4.2 [Read file with custom column name](#read-file-with-custom-column-name)
-   4.3 [Edit a column](#edit-a-column)
-   4.4 [Add a new row](#add-a-new-row)
-   4.5 [Delete a row](#delete-a-row)
-   4.6 [Filter a column](#filter-a-column)
-   4.7 [Export to a new file](#export-to-a-new-file)
+  1. [Read file with default column name](#read-file-with-default-column-name)
+  2. [Read file with custom column name](#read-file-with-custom-column-name)
+  3. [Edit a column](#edit-a-column)
+  4. [Add a new row](#add-a-new-row)
+  5. [Delete a row](#delete-a-row)
+  6. [Filter a column](#filter-a-column)
+  7. [Export to a new file](#export-to-a-new-file)
+  8. [Download demo app]
 
 ## Installation
 
@@ -57,9 +58,9 @@ C++ 11 or higher version is required.
 
 Should have basic knowledge in a few C++ STL. If need a recap click the links.
 
-- [vector]()
-- [Lambda function]()
-- [Hash map]()
+- [vector](https://onkesh.hashnode.dev/array-and-vector-in-cpp)
+- [Lambda function](https://onkesh.hashnode.dev/function-pointer-and-lambda-function-in-cpp)
+- [Hash map](https://onkesh.hashnode.dev/hashmap-in-cpp)
 
 ## Examples
 
