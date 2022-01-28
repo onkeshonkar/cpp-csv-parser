@@ -35,7 +35,7 @@ https://onkeshonkar.github.io/cpp-classes -- syllabus I covered while teaching.
   5. [Delete a row](#delete-a-row)
   6. [Filter a column](#filter-a-column)
   7. [Export to a new file](#export-to-a-new-file)
-  8. [Download demo app]
+  8. [Download demo app](https://github.com/onkeshonkar/student-manager-using-csv-parser-cpp)
 
 ## Installation
 
